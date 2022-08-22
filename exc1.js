@@ -7,8 +7,8 @@
 // Multiplicação: 2 * 4 = x
 // ---------------------------------------------------------------
 
-let num1 = 3;
-let num2 = 4;
+const num1 = 2;
+const num2 = 4;
 
 console.log(`Soma: 2 + 4 = ${num1 + num2}`);
 console.log(`Subtração: 2 - 4 = ${num1 - num2}`);
