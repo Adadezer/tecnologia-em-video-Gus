@@ -6,7 +6,6 @@
 // Total a pagar: R$88,00
 // ---------------------------------------------------------------
 
-
 const jantar = (valorJantar, taxa) => { 
   console.log(`Valor do Jantar: R$${valorJantar.toFixed(2).replace('.',',')}`);
 
