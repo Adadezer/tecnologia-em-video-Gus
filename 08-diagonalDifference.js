@@ -29,4 +29,4 @@ function diagonalDifferenceHardCode(arr) {
   return (diagEsq - diagDir) * -1;
 }
 
-console.log(diagonalDifference([[1,2,3], [4,5,6], [9,8,9]]));
+console.log(diagonalDifferenceHardCode([[1,2,3], [4,5,6], [9,8,9]]));
